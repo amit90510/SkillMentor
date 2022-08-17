@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "D:\\SkillMentor\\Utilities\\Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj",
+      "projectPath": "D:\\SkillMentor\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\obj\\",
+      "outputPath": "D:\\SkillMentor\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

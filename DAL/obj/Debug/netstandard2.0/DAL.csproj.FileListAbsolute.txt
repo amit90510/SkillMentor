@@ -12,3 +12,17 @@ C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.dll
 C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.pdb
 C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\Utilities.dll
 C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\Utilities.pdb
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\Service.dll
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\Utilities.dll
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\Service.pdb
+D:\SkillMentor\DAL\bin\Debug\netstandard2.0\Utilities.pdb
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\SkillMentor\DAL\obj\Debug\netstandard2.0\DAL.pdb

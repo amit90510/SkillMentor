@@ -400,11 +400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amit\\Desktop\\IndianSkill\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\SkillMentor\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\DAL\\DAL.csproj",
+      "projectPath": "D:\\SkillMentor\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\DAL\\obj\\",
+      "outputPath": "D:\\SkillMentor\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -424,11 +424,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj"
+            "D:\\SkillMentor\\Service\\Service.csproj": {
+              "projectPath": "D:\\SkillMentor\\Service\\Service.csproj"
             },
-            "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj"
+            "D:\\SkillMentor\\Utilities\\Utilities.csproj": {
+              "projectPath": "D:\\SkillMentor\\Utilities\\Utilities.csproj"
             }
           }
         }

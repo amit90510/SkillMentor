@@ -10,3 +10,15 @@ C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.pdb
 C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Utilities.dll
 C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Utilities.pdb
 C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+D:\SkillMentor\Service\bin\Debug\netstandard2.0\Service.deps.json
+D:\SkillMentor\Service\bin\Debug\netstandard2.0\Service.dll
+D:\SkillMentor\Service\bin\Debug\netstandard2.0\Service.pdb
+D:\SkillMentor\Service\bin\Debug\netstandard2.0\Utilities.dll
+D:\SkillMentor\Service\bin\Debug\netstandard2.0\Utilities.pdb
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.dll
+D:\SkillMentor\Service\obj\Debug\netstandard2.0\Service.pdb

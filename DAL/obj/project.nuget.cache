@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elY+6xZ+cf85xOLJuEE/qMfS31JO17ub+jSi9y5iyVs8SBdYHafPruOuTiSBNUMS9bxM7BijwjdHh0hRCjQWNg==",
+  "dgSpecHash": "xeDuoCASOFyrjAPONRU1++FFTxEWcptcBNQTpieCUQmGGrIqPwcZnf+9cWkq4qE/VVrTbYvTmJhwYY1wVYQYNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\SkillMentor\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amit\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Amit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

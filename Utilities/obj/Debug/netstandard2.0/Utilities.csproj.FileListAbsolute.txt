@@ -7,3 +7,12 @@ C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.A
 C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.dll
 C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+D:\SkillMentor\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+D:\SkillMentor\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+D:\SkillMentor\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+D:\SkillMentor\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+D:\SkillMentor\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+D:\SkillMentor\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+D:\SkillMentor\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+D:\SkillMentor\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+D:\SkillMentor\Utilities\obj\Debug\netstandard2.0\Utilities.pdb

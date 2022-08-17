@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s6zPZ4G0kAfYKJULIezz8a/i6C+J5EQpYzgg1kE3fdkRHbNVolvMoEwYwKLeBuqoY97kx6FfuYLJ6ubgtnxQzg==",
+  "dgSpecHash": "jsADv6U/YHfSDKktuuNzM6ez4oY0IzeJ6BU0AKndibiaDYwPStBhsl1iztDvB7dmf4wBxZQmzvZIJKhDySokQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj",
+  "projectFilePath": "D:\\SkillMentor\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amit\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Amit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

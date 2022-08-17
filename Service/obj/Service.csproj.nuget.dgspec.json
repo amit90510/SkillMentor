@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj": {}
+    "D:\\SkillMentor\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj": {
+    "D:\\SkillMentor\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\SkillMentor\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\Service.csproj",
+        "projectPath": "D:\\SkillMentor\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Service\\obj\\",
+        "outputPath": "D:\\SkillMentor\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj"
+              "D:\\SkillMentor\\Utilities\\Utilities.csproj": {
+                "projectPath": "D:\\SkillMentor\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj": {
+    "D:\\SkillMentor\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "D:\\SkillMentor\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\Utilities.csproj",
+        "projectPath": "D:\\SkillMentor\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amit\\Desktop\\IndianSkill\\Utilities\\obj\\",
+        "outputPath": "D:\\SkillMentor\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
