@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillMentor", "SkillMentor.csproj", "{2DE6A95D-D644-4BAD-9C5E-A905F277107B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndianSkill.Tests", "..\IndianSkill.Tests\IndianSkill.Tests.csproj", "{4190E866-DD1D-4821-8E26-D6264F2445FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{2C6C4A9A-078F-4BA9-B58F-F71AEC7218B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "..\Service\Service.csproj", "{0C5D16DE-DF36-44C2-9FDF-A79A127EDA15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilities", "..\Utilities\Utilities.csproj", "{6657281F-2259-4210-ABC3-588CAD867FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillMentor_Public", "..\SkillMentor_Public\SkillMentor_Public.csproj", "{1D48668F-9AD8-40BD-81CB-9E64D34EBC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillMentor_Admin", "..\SkillMentor_Admin\SkillMentor_Admin.csproj", "{F9359305-84EC-44AF-91C5-3220EAD03002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE6A95D-D644-4BAD-9C5E-A905F277107B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE6A95D-D644-4BAD-9C5E-A905F277107B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE6A95D-D644-4BAD-9C5E-A905F277107B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE6A95D-D644-4BAD-9C5E-A905F277107B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4190E866-DD1D-4821-8E26-D6264F2445FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4190E866-DD1D-4821-8E26-D6264F2445FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4190E866-DD1D-4821-8E26-D6264F2445FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4190E866-DD1D-4821-8E26-D6264F2445FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6C4A9A-078F-4BA9-B58F-F71AEC7218B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6C4A9A-078F-4BA9-B58F-F71AEC7218B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6C4A9A-078F-4BA9-B58F-F71AEC7218B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6C4A9A-078F-4BA9-B58F-F71AEC7218B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5D16DE-DF36-44C2-9FDF-A79A127EDA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5D16DE-DF36-44C2-9FDF-A79A127EDA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5D16DE-DF36-44C2-9FDF-A79A127EDA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5D16DE-DF36-44C2-9FDF-A79A127EDA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6657281F-2259-4210-ABC3-588CAD867FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6657281F-2259-4210-ABC3-588CAD867FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6657281F-2259-4210-ABC3-588CAD867FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6657281F-2259-4210-ABC3-588CAD867FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D48668F-9AD8-40BD-81CB-9E64D34EBC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D48668F-9AD8-40BD-81CB-9E64D34EBC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D48668F-9AD8-40BD-81CB-9E64D34EBC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D48668F-9AD8-40BD-81CB-9E64D34EBC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9359305-84EC-44AF-91C5-3220EAD03002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9359305-84EC-44AF-91C5-3220EAD03002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9359305-84EC-44AF-91C5-3220EAD03002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9359305-84EC-44AF-91C5-3220EAD03002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530099CA-1DF9-4BC2-8602-8DEB00ACF29C}
+	EndGlobalSection
+EndGlobal

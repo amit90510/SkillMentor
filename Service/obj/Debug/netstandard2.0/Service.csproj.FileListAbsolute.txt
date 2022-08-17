@@ -1,0 +1,12 @@
+C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.pdb
+C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Amit\Desktop\IndianSkill\Service\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Amit\Desktop\IndianSkill\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete

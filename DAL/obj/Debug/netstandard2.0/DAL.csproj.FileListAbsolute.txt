@@ -1,0 +1,14 @@
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\Service.dll
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Amit\Desktop\IndianSkill\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Amit\Desktop\IndianSkill\DAL\bin\Debug\netstandard2.0\Utilities.pdb

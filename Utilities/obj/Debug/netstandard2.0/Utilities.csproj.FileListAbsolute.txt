@@ -1,0 +1,9 @@
+C:\Users\Amit\Desktop\IndianSkill\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\Amit\Desktop\IndianSkill\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Amit\Desktop\IndianSkill\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\Amit\Desktop\IndianSkill\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
